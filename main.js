@@ -1,1 +1,1 @@
-document.InnerHTML
+let KKKKK = 6;

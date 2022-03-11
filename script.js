@@ -1,2 +1,5 @@
-let hello = 5;
-console.log(test2)
+let foo = 5;
+console.log(foo);
+
+const pp = [h, k, j];
+
